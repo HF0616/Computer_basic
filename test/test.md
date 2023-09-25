@@ -2,7 +2,7 @@
 
 ![image](https://github.com/HF0616/Computer_basic/blob/main/test/dir/Untitled%201.png)
 
-![Untitled](https://github.com/HF0616/Computer_basic/blob/main/test/dir/Untitled.png)
+![image](https://github.com/HF0616/Computer_basic/blob/main/test/dir/Untitled.png)
 
 ## Web浏览器
 
